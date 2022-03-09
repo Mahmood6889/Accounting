@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'B Traffic';
+    src: url('BTrafficBold.eot');
+    src: url('BTrafficBold.eot?#iefix') format('embedded-opentype'),
+        url('BTrafficBold.woff2') format('woff2'),
+        url('BTrafficBold.woff') format('woff'),
+        url('BTrafficBold.ttf') format('truetype'),
+        url('BTrafficBold.svg#BTrafficBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
